@@ -58,3 +58,6 @@ A registry (like GitHub for images) where you can push/pull images.
 A container is a lightweight, portable, isolated environment that runs your application and everything it needs to work — like the code, libraries, dependencies, environment variables, and even runtime (Node, Python, etc.).
 
 You can think of a container as a box where you put your app, zip it up with everything it depends on, and send it to any computer or server. That computer doesn’t need to have Node, MongoDB, Python, or anything installed — just Docker. Once the box (container) is opened, your app runs exactly the same everywhere.
+
+
+-- 
