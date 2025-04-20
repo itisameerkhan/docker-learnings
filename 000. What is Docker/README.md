@@ -1,10 +1,5 @@
 # What is Docker 
 
-<<<<<<< HEAD
-![demo](https://miro.medium.com/v2/resize:fit:1000/0*DEOunKcbHW0dRlS5)
-
-
-=======
 ![demo](https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo.png)
 
 **Your code runs fine on your laptop, but breaks when someone else tries it, or when it’s deployed to a server.**
