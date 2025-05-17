@@ -11,5 +11,3 @@
 
 * Different versions of Node.js, Python, npm, etc.
 
-* Missing or extra dependencies
->>>>>>> 1857460 (add)

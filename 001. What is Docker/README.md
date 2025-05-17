@@ -60,4 +60,4 @@ A container is a lightweight, portable, isolated environment that runs your appl
 You can think of a container as a box where you put your app, zip it up with everything it depends on, and send it to any computer or server. That computer doesn’t need to have Node, MongoDB, Python, or anything installed — just Docker. Once the box (container) is opened, your app runs exactly the same everywhere.
 
 
--- 
+--              
